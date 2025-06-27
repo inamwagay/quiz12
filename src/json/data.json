@@ -1,142 +1,142 @@
 [
   {
-    "question": "Which HTML tag is used for the largest heading?",
-    "option-1": "<h1>",
-    "option-2": "<h6>",
-    "option-3": "<heading>",
-    "option-4": "<head>"
+    "question": "When did World War I begin?",
+    "option-1": "1914",
+    "option-2": "1912",
+    "option-3": "1916",
+    "option-4": "1918"
   },
   {
-    "question": "Which tag tells the browser it is an HTML5 document?",
-    "option-1": "<!DOCTYPE html>",
-    "option-2": "<html5>",
-    "option-3": "<document>",
-    "option-4": "<meta>"
+    "question": "Which event is widely considered the spark that started World War I?",
+    "option-1": "Assassination of Archduke Franz Ferdinand",
+    "option-2": "Sinking of the Lusitania",
+    "option-3": "Invasion of Belgium",
+    "option-4": "Treaty of Versailles"
   },
   {
-    "question": "What is the root element of an HTML page?",
-    "option-1": "<html>",
-    "option-2": "<head>",
-    "option-3": "<body>",
-    "option-4": "<root>"
+    "question": "Which country was part of the Allied Powers?",
+    "option-1": "France",
+    "option-2": "Germany",
+    "option-3": "Austria-Hungary",
+    "option-4": "Ottoman Empire"
   },
   {
-    "question": "Where do you put the meta information about the page?",
-    "option-1": "<head>",
-    "option-2": "<meta>",
-    "option-3": "<body>",
-    "option-4": "<info>"
+    "question": "What was the name of the British passenger ship sunk by a German U-boat in 1915?",
+    "option-1": "Lusitania",
+    "option-2": "Titanic",
+    "option-3": "Bismarck",
+    "option-4": "Olympic"
   },
   {
-    "question": "Which tag contains the visible content of the page?",
-    "option-1": "<body>",
-    "option-2": "<head>",
-    "option-3": "<meta>",
-    "option-4": "<title>"
+    "question": "Which country switched sides during World War I?",
+    "option-1": "Italy",
+    "option-2": "Germany",
+    "option-3": "Russia",
+    "option-4": "Serbia"
   },
   {
-    "question": "Which HTML tag is used to create a paragraph?",
-    "option-1": "<p>",
-    "option-2": "<h1>",
-    "option-3": "<br>",
-    "option-4": "<paragraph>"
+    "question": "Which treaty ended World War I?",
+    "option-1": "Treaty of Versailles",
+    "option-2": "Treaty of Paris",
+    "option-3": "Treaty of Brest-Litovsk",
+    "option-4": "Treaty of Ghent"
   },
   {
-    "question": "Which tag is used to create hyperlinks?",
-    "option-1": "<a>",
-    "option-2": "<link>",
-    "option-3": "<href>",
-    "option-4": "<url>"
+    "question": "What new weapon was first used significantly in World War I?",
+    "option-1": "Tank",
+    "option-2": "Rocket",
+    "option-3": "Atomic bomb",
+    "option-4": "Submarine"
   },
   {
-    "question": "Which tag displays an image on the page?",
-    "option-1": "<img>",
-    "option-2": "<image>",
-    "option-3": "<pic>",
-    "option-4": "<photo>"
+    "question": "What was 'No Man's Land'?",
+    "option-1": "An area between opposing trenches",
+    "option-2": "A neutral country",
+    "option-3": "A demilitarized zone in Africa",
+    "option-4": "A part of the sea not claimed by any country"
   },
   {
-    "question": "Which tag is used to add a clickable button?",
-    "option-1": "<button>",
-    "option-2": "<input>",
-    "option-3": "<click>",
-    "option-4": "<press>"
+    "question": "Which empire collapsed as a result of World War I?",
+    "option-1": "Russian Empire",
+    "option-2": "British Empire",
+    "option-3": "French Empire",
+    "option-4": "All of the above"
   },
   {
-    "question": "Which tag is used to embed another webpage inside your page?",
-    "option-1": "<iframe>",
-    "option-2": "<embed>",
-    "option-3": "<object>",
-    "option-4": "<src>"
+    "question": "Who was the President of the United States during World War I?",
+    "option-1": "Woodrow Wilson",
+    "option-2": "Franklin D. Roosevelt",
+    "option-3": "Theodore Roosevelt",
+    "option-4": "Herbert Hoover"
   },
   {
-    "question": "Which tag is used to create a line break?",
-    "option-1": "<br>",
-    "option-2": "<hr>",
-    "option-3": "<break>",
-    "option-4": "<lb>"
+    "question": "When did the United States enter World War I?",
+    "option-1": "1917",
+    "option-2": "1914",
+    "option-3": "1915",
+    "option-4": "1916"
   },
   {
-    "question": "Which tag creates a horizontal line on the page?",
-    "option-1": "<hr>",
-    "option-2": "<line>",
-    "option-3": "<br>",
-    "option-4": "<hline>"
+    "question": "Which battle is known for being one of the longest of World War I?",
+    "option-1": "Battle of Verdun",
+    "option-2": "Battle of the Bulge",
+    "option-3": "Battle of Britain",
+    "option-4": "Battle of Midway"
   },
   {
-    "question": "What tag is used to define the title shown on the browser tab?",
-    "option-1": "<title>",
-    "option-2": "<head>",
-    "option-3": "<meta>",
-    "option-4": "<header>"
+    "question": "What was the purpose of the Zimmermann Telegram?",
+    "option-1": "To propose a German-Mexican alliance",
+    "option-2": "To offer peace to Russia",
+    "option-3": "To inform Britain of a ceasefire",
+    "option-4": "To declare war on the U.S."
   },
   {
-    "question": "Which tag is used for small size headings?",
-    "option-1": "<h6>",
-    "option-2": "<h1>",
-    "option-3": "<h3>",
-    "option-4": "<small>"
+    "question": "What did the Selective Service Act of 1917 do?",
+    "option-1": "Required men to register for military service",
+    "option-2": "Raised war taxes",
+    "option-3": "Authorized women's suffrage",
+    "option-4": "Banned alcohol consumption"
   },
   {
-    "question": "Which attribute is used to define the image path?",
-    "option-1": "src",
-    "option-2": "href",
-    "option-3": "alt",
-    "option-4": "path"
+    "question": "Which country was NOT part of the Central Powers?",
+    "option-1": "United States",
+    "option-2": "Germany",
+    "option-3": "Austria-Hungary",
+    "option-4": "Ottoman Empire"
   },
   {
-    "question": "Which attribute gives alternative text for an image?",
-    "option-1": "alt",
-    "option-2": "href",
-    "option-3": "src",
-    "option-4": "title"
+    "question": "What was the primary method of fighting on the Western Front?",
+    "option-1": "Trench warfare",
+    "option-2": "Naval warfare",
+    "option-3": "Air raids",
+    "option-4": "Guerrilla tactics"
   },
   {
-    "question": "Which attribute is used to create a link destination?",
-    "option-1": "href",
-    "option-2": "src",
-    "option-3": "alt",
-    "option-4": "link"
+    "question": "What is the term for payments made by a defeated country for damages caused by war?",
+    "option-1": "Reparations",
+    "option-2": "Tariffs",
+    "option-3": "Sanctions",
+    "option-4": "Tributes"
   },
   {
-    "question": "Which tag do you use to group a set of paragraphs or headings together?",
-    "option-1": "<div>",
-    "option-2": "<span>",
-    "option-3": "<section>",
-    "option-4": "<group>"
+    "question": "What was the main goal of Wilson’s Fourteen Points?",
+    "option-1": "To promote peace and prevent future wars",
+    "option-2": "To punish Germany",
+    "option-3": "To expand U.S. territory",
+    "option-4": "To support imperialism"
   },
   {
-    "question": "Which tag is self-closing?",
-    "option-1": "<img>",
-    "option-2": "<a>",
-    "option-3": "<button>",
-    "option-4": "<p>"
+    "question": "Which country suffered the most military deaths in World War I?",
+    "option-1": "Russia",
+    "option-2": "United Kingdom",
+    "option-3": "France",
+    "option-4": "Germany"
   },
   {
-    "question": "Which tag is mandatory at the beginning of an HTML5 document?",
-    "option-1": "<!DOCTYPE html>",
-    "option-2": "<html>",
-    "option-3": "<head>",
-    "option-4": "<meta>"
+    "question": "Which day marked the end of World War I?",
+    "option-1": "November 11, 1918",
+    "option-2": "June 28, 1914",
+    "option-3": "May 7, 1915",
+    "option-4": "September 1, 1939"
   }
 ]
